@@ -2,6 +2,9 @@
     margin: 0 16px;
     padding: 24px 0;
 }
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .cabecalho{
     width:100%;
     background-color: #d5c703;
