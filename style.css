@@ -3,9 +3,9 @@
     padding: 24px 0;
 }
 .cabecalho{
-    width:100%;
-    background-color: #33d503;
-    color white;
+    width:97.8%;
+    background-color: #d5c703;
+    color: white;
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
@@ -21,4 +21,35 @@
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;
+}
+.escola-imagem{ 
+    width:25%;
+}
+.escola{
+    background-image: linear-gradient(#000000, #000000);
+    color: rgb(235, 212, 4);
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-conteudo{
+    width:35%;
+}
+.ecola-titulo{
+    padding: 24px 0;
+}
+body{
+    font-family: "poppins", sans-serif;
+}
+.estudante-imagem{
+    width: 130px;
+}
+.estudante-icone{
+    width:24px;
+}
+.estudante-div{
+    text-align: center;
 }
